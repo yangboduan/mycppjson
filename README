@@ -1,2 +1,6 @@
+linux下编译jsoncpp,请参照：
+http://www.cnblogs.com/sherry-best/archive/2013/01/17/2864556.html
+
 解析json文件，获取文件的名称、类型、文档类型;
-分别统计文件和文件夹个数
+
+分别统计文件和文件夹个数。
