@@ -1,0 +1,39 @@
+{
+    "docinfos":
+    [
+	{
+	    "docid": "gns://8CFF1A05F851452C9EE140819B931155",
+	    "doctype": "userdoc",
+	    "typename": "个人文档",
+	    "docname": "user01",
+	    "otag": "C1B10895355B4D6386D2B414B0DA45CB",
+	    "size": -1
+	},
+	{
+	    "docid": "gns://AE28D46D91D14B2F88C0F43A3DFEB1FE",
+	    "doctype": "groupdoc",
+	    "typename": "群组文档",
+	    "docname": "group1",
+	    "otag": "239640CC92284AC9B8A4AC0929B61672",
+	    "size": -1
+	},
+	{
+	    "docid": "gns://DED18AD77A2849509DB0A7F6BAA58926",
+	    "doctype": "customdoc",
+	    "typename": "部门文档",
+	    "docname": "测试部",
+	    "otag": "8FE9AB69D4F4489EAC0058949472D122",
+	    "size": 1
+	},
+	{
+            "docid": "gns://DED18AD77A2849509DB0A7F6BAA58926",
+            "doctype": "customdoc",
+            "typename": "部门文档",
+            "docname": "测试部",
+            "otag": "8FE9AB69D4F4489EAC0058949472D122",
+            "size": -1
+        }
+
+    ]
+}
+

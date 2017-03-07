@@ -4,7 +4,7 @@ CFLAGS   = -std=gnu++0x -g
 OBJ      = main.o funcmyjson.o 
 LINKOBJ  = main.o funcmyjson.o
 LIBS     = -ljson 
-BIN      = jsontest
+BIN      = docinfo
 RM       = rm -rf
 
 $(BIN): $(OBJ)
