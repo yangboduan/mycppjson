@@ -2,7 +2,7 @@
 int main()
 
 {
-char filename[]="b.txt";
+char filename[]="jsonfile.txt";
 ParseJsonFromFile(filename);
 return 0;
 }
